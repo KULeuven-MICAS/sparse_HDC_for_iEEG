@@ -1,2 +1,2 @@
-# sparse_HDC_for_iEEG
-Official repository of "EEG Seizure Detection with a Sparse Hyperdimensional Computing Accelerator"
+# iEEG Seizure Detection with a Sparse Hyperdimensional Computing Accelerator
+Official repository of "iEEG Seizure Detection with a Sparse Hyperdimensional Computing Accelerator".
