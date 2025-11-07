@@ -5,7 +5,7 @@ Official repository of "iEEG Seizure Detection with a Sparse Hyperdimensional Co
 If you use this code in your work, you can cite us:
 
 <details>
-<summary>Publication</summary>
+<summary>BibTeX</summary>
 <p>
 
 ```
