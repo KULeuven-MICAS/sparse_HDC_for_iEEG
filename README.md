@@ -72,6 +72,8 @@ If you use this code in your work, please cite:
   pages={1-4},
   doi={10.1109/PRIME66228.2025.11203735}
 }
+
+@misc{Cuyckens_Antonio_Fang_Verhelst_2026, title={Hardware design optimization of a sparse hyperdimensional computing accelerator for IEEG seizure detection}, url={https://www.mdpi.com/2674-0729/5/2/10}, journal={MDPI}, publisher={Multidisciplinary Digital Publishing Institute}, author={Cuyckens, Stef and Antonio, Ryan and Fang, Chao and Verhelst, Marian}, year={2026}, month={Apr}} 
 ```
 
 </p>
